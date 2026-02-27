@@ -17,7 +17,7 @@ A web-based interactive replica of the classic electronic memory game, Simon. Bu
 To run this project locally, simply clone the repository and open the `index.html` file in your browser.
 
 \`\`\`bash
-git clone https://github.com/your-username/simon-game.git
+git clone [https://github.com/sourabhshinge17/simon-memory-game.git]
 \`\`\`
 
 ## 📝 License
